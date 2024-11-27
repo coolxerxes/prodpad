@@ -107,6 +107,6 @@ Licensed under the MIT license.
 [styled-componets]: https://github.com/styled-components/styled-components
 [i18next]: https://github.com/i18next/i18next
 [whoooa]: https://www.whoooa.rocks/
-[Landy]: https://www.npmjs.com/package/cra-template-adrinlol
+[ProdPad]: https://www.npmjs.com/package/cra-template-adrinlol
 [Google Lighthouse]: https://developers.google.com/web/tools/lighthouse
 <!-- prettier-ignore-end -->
